@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
       "text": "Gym Class",
-      "day": "Sunday 9am",
-      "reminder": false
+      "day": "Sunday 10.30am",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
